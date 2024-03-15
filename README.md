@@ -1,6 +1,6 @@
 # IamDavid2000.github.io
 Website
-<img src=IMG_1266.jpeg alt="David Photo" align="right" width="30%"/>
+<img src=00C3A5D6-9F3C-45A5-8241-9183D62BB2C1.jpeg alt="David Photo" align="right" width="30%"/>
 
 
 # _David R Hemenway_

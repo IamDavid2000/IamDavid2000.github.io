@@ -16,6 +16,7 @@ Website
 * Server - Bangkok Thai Cuisine, Kingman AZ
 * Front Line - Golden Corral Buffet & Grill, Kingman AZ
 * Caregiver - Kingman AZ
+* Head of Basketball Coach, Kingman Middle School, Kingman AZ
 * Server - Thai Laughlin, Laughlin NV 
 * Buster - Mr.Ds, Kingman AZ
 * Store Organizer - BigLots, Kingman AZ

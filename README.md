@@ -1,13 +1,12 @@
 # IamDavid2000.github.io
 Website
-<img src="http://rbatzing.github.io/img/bob5.png" alt="RPB Photo" align="right" width="30%"/>
+<img src=IMG_1266.jpeg alt="David Photo" align="right" width="30%"/>
 
-# _Robert P Batzinger_
+
+# _David R Hemenway_
 > _Praeceptor Emeritus_<br />
 > Payap University, Department of Computer Science<br />
 > Amphur Muang, Chiang Mai 50000, Thailand<br />
-
-> Computer Solutions Developer with decades of experience in Data Science and Big Data Analytics, Natural language Processing, Document Publishing Systems, and Web Community Development
 
 # Education
 * SB Chemistry - Massachusetts Institute of Technology

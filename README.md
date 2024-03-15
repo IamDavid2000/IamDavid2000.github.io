@@ -4,15 +4,12 @@ Website
 
 
 # _David R Hemenway_
-> _Praeceptor Emeritus_<br />
 > Payap University, Department of Computer Science<br />
 > Amphur Muang, Chiang Mai 50000, Thailand<br />
 
 # Education
-* SB Chemistry - Massachusetts Institute of Technology
-* PhD Pathobiology - Johns Hopkins University
-* NIH Post Doctoral Fellow - University of Wisconsin at Madison
-* MS Applied Mathematics and Computer Science - Indiana University - South Bend
+* Kingman High School - Kingman, Arizona.
+* International Business Management - Payap University International College
 
 # Experience
 * Summer Intern - New York State Rabies Screening Laboratory

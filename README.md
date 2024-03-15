@@ -4,7 +4,7 @@ Website
 
 
 # _David R Hemenway_
-> Payap University, Department of Computer Science<br />
+> Payap University International College, International Business Management<br />
 > Amphur Muang, Chiang Mai 50000, Thailand<br />
 
 # Education

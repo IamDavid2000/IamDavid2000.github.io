@@ -11,6 +11,9 @@ Website
 * Kingman High School - Kingman, Arizona.
 * International Business Management - Payap University International College
 
+# Objective 
+Motivated and adaptable professional with a passion for [specific field or industry], seeking to leverage [relevant skills or experiences] to contribute effectively to a dynamic team at [company name]. Eager to apply my [mention a specific skill or attribute you possess] in a challenging environment where innovation and collaboration are valued, with the aim of achieving both personal and organizational goals.
+
 # Experience
 * Front Desk - Circle S Campgrounds, Kingman AZ
 * Server - Bangkok Thai Cuisine, Kingman AZ
@@ -22,7 +25,7 @@ Website
 * Store Organizer - BigLots, Kingman AZ
 * Schedules Consultation - Lisa Thai Massages, Kingman AZ
 
-# Interests
+# Skills
 * Applied machine learning, data science, modeling and forecasting to assist decision making
 * Natural language processing to automate prepublication editing support
 * Web and online community development and e-business

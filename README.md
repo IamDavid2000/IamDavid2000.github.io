@@ -12,7 +12,7 @@ Website
 * International Business Management - Payap University International College
 
 # Objective 
-Motivated and adaptable professional with a passion for [specific field or industry], seeking to leverage [relevant skills or experiences] to contribute effectively to a dynamic team at [company name]. Eager to apply my [mention a specific skill or attribute you possess] in a challenging environment where innovation and collaboration are valued, with the aim of achieving both personal and organizational goals.
+Motivated and adaptable professional with a passion for any field and industry, seeking to leverage my learning/adaptability skills to contribute effectively to a dynamic team at any company. Eager to apply my communication skills in a challenging environment where innovation and collaboration are valued, with the aim of achieving both personal and organizational goals.
 
 # Experience
 * Front Desk - Circle S Campgrounds, Kingman AZ

@@ -12,20 +12,12 @@ Website
 * International Business Management - Payap University International College
 
 # Experience
-* Summer Intern - New York State Rabies Screening Laboratory
-* Undergraduate Research Opportunity Intern - Environmental Health Sciences Center, Massachusetts Institute of Technology
-* Urban Vehicle Design Competition - Team communications and logistics officer, Massachusetts Institute of Technology
-* Research Assistant - Wellcome Laboratory, Johns Hopkins University 
-* Post Doctoral Fellow - McArdle Laboratory, University of Wisconsin at Madison
-* Project Head - Faculty of Pharmacy, Payap University
-* Acting Dean - Faculty of Science, Payap University
-* Software Development Lead - Computer-Assisted Text Processing Center, Thailand Bible Society
-* Director - United Bible Society Asia-Pacific Regional Computer-Assisted Text Processing Center
-* Office Manager - Martin Kehoe Law Office - Guilderland, NY
-* Informatics Lab Manager - Indiana University - South Bend
-* Computer Science Instructor - Payap University
-* IT Director - Payap University
-* Praceptor Emeritus - Payap University
+* Front Desk - Circle S Campgrounds, Kingman AZ
+* Server - Bangkok Thai Cuisine, Kingman AZ
+* Front Line - Golden Corral Buffet & Grill, Kingman AZ
+* Server - Thai Laughlin, Laughlin NV 
+* Buster - Mr.Ds, Kingman AZ
+* Schedules Consultation - Lisa Thai Massages, Kingman AZ
 
 # Interests
 * Applied machine learning, data science, modeling and forecasting to assist decision making

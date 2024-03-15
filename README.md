@@ -42,7 +42,7 @@ Motivated and adaptable professional with a passion for any field and industry, 
 
 
 # Contact Info
-* [Web Page](https://IamDavid2000.github.io)
+* [Web Page] https://IamDavid2000.github.io (https://IamDavid2000.github.io)
 * [Gmail] davidhemenway11@gmail.com (davidhemenway11@gmail.com)
 
 

@@ -15,8 +15,10 @@ Website
 * Front Desk - Circle S Campgrounds, Kingman AZ
 * Server - Bangkok Thai Cuisine, Kingman AZ
 * Front Line - Golden Corral Buffet & Grill, Kingman AZ
+* Caregiver - Kingman AZ
 * Server - Thai Laughlin, Laughlin NV 
 * Buster - Mr.Ds, Kingman AZ
+* Store Organizer - BigLots, Kingman AZ
 * Schedules Consultation - Lisa Thai Massages, Kingman AZ
 
 # Interests
